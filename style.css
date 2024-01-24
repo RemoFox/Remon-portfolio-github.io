@@ -437,9 +437,11 @@ font-size:1.8rem;
     margin: auto;
     display: flex;
    justify-content: space-between;
+
 }
-.project .slide .info .bt button{
-    
+.project .slide .info .bt a{
+    text-decoration: none;
+    text-align: center;
     margin:  1rem  1rem  1rem  1rem;
     padding:.8rem;
     width: 10rem;
@@ -605,7 +607,7 @@ html{
     .slide:hover .info{
         top:17rem;
     }
-    .project .slide .info .bt button{
+    .project .slide .info .bt a{
        margin-left: 6rem;
        margin-right: 6rem;
     }
@@ -711,7 +713,7 @@ font-size:2.8rem;
 .project .slide .info .na span{
     font-size:2.6rem;
 }
-.project .slide .info .bt button{
+.project .slide .info .bt a{
     margin:2rem ;
     width: 20rem;
     font-size: 2.6rem;
@@ -821,7 +823,7 @@ font-size:2.8rem;
 @media(max-width:600px)
 { 
 
-    .project .slide .info .bt button{
+    .project .slide .info .bt a{
 
         width: 15rem;
         font-size: 2.6rem;
@@ -852,6 +854,11 @@ font-size:2.8rem;
     html{
         font-size: 38%;
      }
+     .project .slide .info {
+        top:55rem;
+    } .slide:hover .info{
+        top:32rem;
+    }
   }
 
 
@@ -860,7 +867,11 @@ font-size:2.8rem;
  html{
     font-size: 36%;
  }
-  
+ .project .slide .info {
+    top:56rem;
+} .slide:hover .info{
+    top:36rem;
+}
   }
   @media(max-width:320px)
   { 
@@ -870,7 +881,7 @@ font-size:2.8rem;
   .project .slide .info {
     top:70rem;
 } .slide:hover .info{
-    top:45rem;
+    top:47rem;
 }
 
    }
