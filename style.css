@@ -579,8 +579,7 @@ font-size: 2.2rem;
 
 
 
-@media(max-device-width:1130px) and (-webkit-device-pixel-ratio : 2)
-{
+@media(max-device-width:1130px){
 html{
     font-size: 55%;
 }
@@ -592,8 +591,7 @@ html{
 }
 }
 
-@media(max-device-width:996px) and (-webkit-device-pixel-ratio : 2)
-{
+@media(max-device-width:996px){
     html{
         font-size: 50%;
     }
@@ -625,8 +623,7 @@ html{
         }
 }
 
-@media(max-device-width:910px) and (-webkit-device-pixel-ratio : 2)
-{
+@media(max-device-width:910px){
     html{
         font-size: 45%;
     }
@@ -648,8 +645,7 @@ html{
    
  }
 
- @media(max-device-width:820px) and (-webkit-device-pixel-ratio : 2)
- {
+ @media(max-device-width:820px){
     html{
         font-size: 42%;
     }
@@ -669,8 +665,7 @@ html{
     }
    
  }
- @media(max-device-width:780px) and (-webkit-device-pixel-ratio : 2)
- {
+ @media(max-device-width:780px){
     html{
         font-size: 40%;
     }
@@ -697,8 +692,7 @@ html{
     }
  }
 
- @media(max-device-width:767px) and (-webkit-device-pixel-ratio : 2)
- {
+ @media(max-device-width:767px){
 .project .slide{
     margin-bottom: 8rem;
       height: 320px;
@@ -727,8 +721,7 @@ font-size:2.8rem;
 }
  }
  
- @media(max-device-width:740px) and (-webkit-device-pixel-ratio : 2)
- {
+ @media(max-device-width:740px){
   
     .header .row .navbar{
         background-image:
@@ -827,7 +820,7 @@ font-size:2.8rem;
         
         
 }
-@media(max-device-width:600px) and (-webkit-device-pixel-ratio : 2)
+@media(max-device-width:600px)
 { 
 
     .project .slide .info .bt a{
@@ -839,7 +832,7 @@ font-size:2.8rem;
     
       
  }
- @media(max-device-width:550px ) and (-webkit-device-pixel-ratio : 2)
+ @media(max-device-width:550px )
  {   
     .home .row  .container .image img{
        margin-left: -1rem;
@@ -848,7 +841,7 @@ font-size:2.8rem;
 }
 
 
-   @media( max-device-width:440px ) and (-webkit-device-pixel-ratio : 2)
+   @media( max-device-width:440px )
    {    
     .home .row  .container .image img{
         margin-left: -1rem;
@@ -869,7 +862,7 @@ font-size:2.8rem;
   }
 
 
- @media(max-device-width:370px) and (-webkit-device-pixel-ratio : 2)
+ @media(max-device-width:370px)
  { 
  html{
     font-size: 36%;
@@ -880,7 +873,7 @@ font-size:2.8rem;
     top:36rem;
 }
   }
-  @media(max-device-width:320px) and (-webkit-device-pixel-ratio : 2)
+  @media(max-device-width:320px)
   { 
   html{
     font-size: 30%;
@@ -892,7 +885,7 @@ font-size:2.8rem;
 }
 
    }
- @media(max-device-width:280px) and (-webkit-device-pixel-ratio : 2)
+ @media(max-device-width:280px)
 { 
 html{
   font-size: 25%;
