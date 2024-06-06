@@ -26,7 +26,7 @@ setTimeout(
 setTimeout(
     function()
     {
-        window.now.innerHTML+=('  Now. You You can take a look at my Portfolio , Thank you  ');
+        window.now.innerHTML+=('  Now.  You can take a look at my Portfolio , Thank you  ');
     }
 ,6400);
 
